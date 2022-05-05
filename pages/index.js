@@ -21,8 +21,8 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello! I'm <b>Michael</b>. I'm currently a software engineer working
-          on my SEO project!
+          Hello! I'm <b>Michael Ng</b>. I'm currently a software engineer
+          working on my SEO project! And this is the new test branch!
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
